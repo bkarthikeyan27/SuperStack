@@ -7,3 +7,7 @@ Execute the java main class, It will prompt for user action "Enter the action : 
   Sample commands : push 4, pop, inc 3 1, exit.
   
  Post each operation it will display the top of the stack.
+ 
+ Constraints :
+ 
+ It is guaranteed that pop is never called on an empty stack
